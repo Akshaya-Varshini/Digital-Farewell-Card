@@ -97,7 +97,7 @@ const Index = () => {
           <Card className="p-8 md:p-12 mb-16 shadow-gentle bg-card/95 backdrop-blur-sm border-0 fade-in-up-delay-1">
             <div className="text-center">
               <p className="font-elegant text-xl md:text-2xl leading-relaxed text-foreground mb-6">
-                Dear Krishi,
+                Hi dear,
               </p>
               
               <div className="font-body text-lg leading-relaxed text-foreground space-y-4 max-w-3xl mx-auto">
