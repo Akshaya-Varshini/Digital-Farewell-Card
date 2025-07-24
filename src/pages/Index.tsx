@@ -102,11 +102,11 @@ const Index = () => {
               
               <div className="font-body text-lg leading-relaxed text-foreground space-y-4 max-w-3xl mx-auto">
                 <p>
-                  Even though we've never shared the same physical space, your presence has been felt so deeply across our virtual one. Your kindness radiates through every message, your positivity brightens even the cloudiest of Monday mornings, and your incredible work ethic inspires everyone around you.
+                  Even though we've never shared the same physical space in office, your presence has been felt so deeply across our virtual one. Your kindness radiates through every message, your positivity brightens even the cloudiest of Monday mornings, and your incredible work ethic inspires everyone around you.
                 </p>
                 
                 <p>
-                  You have this beautiful way of making remote work feel warm and connected. Through screen shares and video calls, you've shared not just your expertise but your genuine, caring spirit. You've turned digital interactions into meaningful relationships, and that's truly a gift.
+                  You have this beautiful way of making remote work feel warm and connected. Through screen shares and calls, you've shared not just your expertise but your genuine, caring spirit. You've turned digital interactions into meaningful relationships, and that's truly a gift.
                 </p>
                 
                 <p>
@@ -153,8 +153,8 @@ const Index = () => {
               </div>
               
               <p className="font-handwritten text-2xl text-primary mt-6">
-                Forever grateful,<br />
-                Your colleague & friend 💕
+                Forever loving,<br />
+                Akshaya (Your colleague & friend) 💕
               </p>
             </div>
           </Card>
